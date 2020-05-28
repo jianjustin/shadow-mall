@@ -7,3 +7,6 @@
 [submodule "shadow-mall-user-service"]
 	path = shadow-mall-user-service
 	url = git@github.com:shadowmall/shadow-mall-user-service.git
+[submodule "shadow-mall-goods-service"]
+	path = shadow-mall-goods-service
+	url = git@github.com:shadowmall/shadow-mall-goods-service.git
