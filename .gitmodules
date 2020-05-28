@@ -10,3 +10,6 @@
 [submodule "shadow-mall-goods-service"]
 	path = shadow-mall-goods-service
 	url = git@github.com:shadowmall/shadow-mall-goods-service.git
+[submodule "shadow-mall-gateway-server"]
+	path = shadow-mall-gateway-server
+	url = git@github.com:shadowmall/shadow-mall-gateway-server.git
