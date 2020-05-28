@@ -4,3 +4,6 @@
 [submodule "shadow-mall-eureka-server"]
 	path = shadow-mall-eureka-server
 	url = git@github.com:shadowmall/shadow-mall-eureka-server.git
+[submodule "shadow-mall-user-service"]
+	path = shadow-mall-user-service
+	url = git@github.com:shadowmall/shadow-mall-user-service.git
