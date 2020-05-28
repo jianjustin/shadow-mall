@@ -1,3 +1,6 @@
 [submodule "shadow-mall-security-oauth2-server"]
 	path = shadow-mall-security-oauth2-server
 	url = git@github.com:shadowmall/shadow-mall-security-oauth2-server.git
+[submodule "shadow-mall-eureka-server"]
+	path = shadow-mall-eureka-server
+	url = git@github.com:shadowmall/shadow-mall-eureka-server.git
